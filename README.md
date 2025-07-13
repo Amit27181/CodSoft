@@ -25,7 +25,6 @@ A simple Contact Book application built with Python and Tkinter.
 
 🎮 Task 3: Rock-Paper-Scissors Game (GUI)
 An interactive GUI game built using Tkinter, offering:
-
 🆚 Real-time score tracking
 🧠 Immediate result display
 👁️‍🗨️ Simple and colorful user interface
