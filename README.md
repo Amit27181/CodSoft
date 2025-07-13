@@ -1,5 +1,8 @@
 🚀 CodSoft Internship – Python Programming (June Batch B34)
+
+
 Welcome to my official submission for the CodSoft Virtual Internship Program, completed from June 15 – July 15, 2025. This repository contains three hands-on Python projects developed during the internship, highlighting my proficiency in Python programming and GUI development using Tkinter.
+
 
 👨‍💻 Intern Profile
 Name: Amit Pandey
